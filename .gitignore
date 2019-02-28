@@ -1,0 +1,13 @@
+__pycache__
+venv
+.idea
+.ropeproject
+.vscode
+*.log
+logs/*
+.ipynb_checkpoints
+
+.env
+.pytest_cache
+*.pyc
+.coverage
